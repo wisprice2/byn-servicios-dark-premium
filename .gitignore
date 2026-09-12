@@ -1,0 +1,6 @@
+# Entorno y dependencias
+node_modules/
+.vercel/
+*.zip
+.DS_Store
+Thumbs.db
